@@ -43,22 +43,18 @@
 📑 OCR + AI Q&A chatbot for PDFs/images  
 👉 *Tesseract | Poppler | ChromaDB | RAG*
 
-> *(You can add GitHub repo links for each — tell me if you want that.)*
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Bshadabkhan&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
