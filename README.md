@@ -43,7 +43,6 @@
 📑 OCR + AI Q&A chatbot for PDFs/images  
 👉 *Tesseract | Poppler | ChromaDB | RAG*
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -54,7 +53,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight" />
 </p>
-
 
 ## 📫 Connect With Me
 
