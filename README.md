@@ -19,11 +19,16 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight&cache_seconds=1" />
+![Shadab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight&cache_seconds=1" />
+![Alternative Stats](https://stats.dooboo.io/api/github-stats?login=Bshadabkhan)
 
-<img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight)
+
+![Alternative Top Langs](https://stats.dooboo.io/api/top-langs?login=Bshadabkhan)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight)
+
 
 ## ⭐ Featured Projects
 
