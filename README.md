@@ -19,16 +19,16 @@
 
 ## 📊 GitHub Stats
 
-![Shadab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight" />
+</p>
 
-![Alternative Stats](https://stats.dooboo.io/api/github-stats?login=Bshadabkhan)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight)
-
-![Alternative Top Langs](https://stats.dooboo.io/api/top-langs?login=Bshadabkhan)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight)
-
+---
 
 ## ⭐ Featured Projects
 
@@ -48,23 +48,14 @@
 📑 OCR + AI Q&A chatbot for PDFs/images  
 👉 *Tesseract | Poppler | ChromaDB | RAG*
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight" />
-</p>
+---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:shadabkhanbenki@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="https://www.linkedin.com/in/shadab-khan-b-41b6a8270"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://github.com/Bshadabkhan"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="mailto:shadabkhanbenki@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/shadab-khan-b-41b6a8270"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/Bshadabkhan"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
