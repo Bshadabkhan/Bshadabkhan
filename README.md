@@ -16,14 +16,13 @@
 - 💬 Ask me about **AI, ML, Python, Automation, Streamlit**
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight&cache_seconds=0" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 ---
 
