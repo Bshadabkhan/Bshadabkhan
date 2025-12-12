@@ -17,13 +17,13 @@
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,selenium,html,css,js,react,flask,fastapi,linux,git,github,postgresql,mysql&perline=10" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight&cache_seconds=1" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight&cache_seconds=1" />
+
+<img src="https://streak-stats.demolab.com?user=Bshadabkhan&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 ## ⭐ Featured Projects
 
