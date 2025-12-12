@@ -43,76 +43,46 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&count_private=true&hide_border=true&title_color=ffd700&icon_color=ffd700&text_color=c9d1d9&bg_color=0d1117" alt="Shadab's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bshadabkhan&hide_border=true&count_private=true&title_color=ffd700&text_color=c9d1d9&icon_color=ffd700&bg_color=0d1117" alt="Shadab's Streak Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bshadabkhan&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&hide_border=true&title_color=ffd700&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bshadabkhan&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bshadabkhan&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bshadabkhan&bg_color=0d1117&color=ffd700&line=ffd700&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 ## ⭐ Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎤 AccessGpt Voice</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bshadabkhan&repo=AccessGpt-Voice&theme=tokyonight&hide_border=true" />
-      </p>
-      <p align="center">
-        Real-time AI voice assistant with STT + TTS + GPT integration<br>
-        <strong>Tech:</strong> Python | Realtime STT | OpenAI | Speech Pipeline
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📄 ATS Resume Analysis</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bshadabkhan&repo=ATS-Resume-Analysis&theme=tokyonight&hide_border=true" />
-      </p>
-      <p align="center">
-        ATS-powered Resume Analyzer using AI for job matching<br>
-        <strong>Tech:</strong> Streamlit | NLP | Skill Extraction | Job Matching
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎧 Podcast Generator</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bshadabkhan&repo=Podcast-Generator&theme=tokyonight&hide_border=true" />
-      </p>
-      <p align="center">
-        Local AI podcast generator using LLMs and audio synthesis<br>
-        <strong>Tech:</strong> Python | LLM | Audio Generation
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📑 OCR Automated Toolkit</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bshadabkhan&repo=OCR-Automated-Toolkit&theme=tokyonight&hide_border=true" />
-      </p>
-      <p align="center">
-        OCR + AI Q&A chatbot for PDFs/images with RAG<br>
-        <strong>Tech:</strong> Tesseract | Poppler | ChromaDB | RAG
-      </p>
-    </td>
-  </tr>
-</table>
+### 🔹 **AccessGpt Voice**
+🎤 Real-time AI voice assistant with STT + TTS + GPT  
+👉 *Python | Realtime STT | OpenAI | Speech Pipeline*
+
+### 🔹 **ATS Resume Analysis**
+📄 ATS-powered Resume Analyzer using AI  
+👉 *Streamlit | NLP | Skill Extraction | Job Matching*
+
+### 🔹 **Podcast Generator**
+🎧 Local AI podcast generator using LLMs  
+👉 *Python | LLM | Audio Generation*
+
+### 🔹 **OCR Automated Toolkit**
+📑 OCR + AI Q&A chatbot for PDFs/images  
+👉 *Tesseract | Poppler | ChromaDB | RAG*
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bshadabkhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bshadabkhan&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -121,19 +91,13 @@
 
 <p align="center">
   <a href="mailto:shadabkhanbenki@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/shadab-khan-b-41b6a8270">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Bshadabkhan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shadabkhan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
