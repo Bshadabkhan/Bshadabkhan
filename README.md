@@ -22,15 +22,10 @@ Building scalable AI applications using Python, FastAPI, LLMs, RAG, and Automati
 
 <ul>
 <li>💼 Software Engineer passionate about building production-ready AI applications.</li>
-
 <li>🤖 Working on AI Voice Assistants, RAG Systems, AI Agents and Automation Platforms.</li>
-
 <li>⚡ Experienced in Python, FastAPI, Streamlit, REST APIs, LLM Integration and Backend Development.</li>
-
 <li>📚 Currently deepening my skills in Advanced System Design, Kubernetes, Distributed AI Systems, Multi-Agent AI, and Cloud Deployment.</li>
-
 <li>🎯 Goal: Become a Senior AI Software Engineer.</li>
-
 </ul>
 
 ---
@@ -38,13 +33,10 @@ Building scalable AI applications using Python, FastAPI, LLMs, RAG, and Automati
 <h2>🚀 Featured Projects</h2>
 
 <table>
-
 <tr>
-
 <td width="50%">
 
 <h3>🎤 AccessGPT Voice</h3>
-
 <ul>
 <li>Real-time AI Voice Assistant</li>
 <li>Speech-to-Text</li>
@@ -52,17 +44,12 @@ Building scalable AI applications using Python, FastAPI, LLMs, RAG, and Automati
 <li>Text-to-Speech</li>
 <li>Interrupt Handling</li>
 </ul>
-
-<b>Tech:</b>
-
-Python • FastAPI • Whisper • OpenAI • Ollama
+<b>Tech:</b> Python • FastAPI • Whisper • OpenAI • Ollama
 
 </td>
-
 <td width="50%">
 
 <h3>📄 AI Resume Intelligence</h3>
-
 <ul>
 <li>ATS Resume Analysis</li>
 <li>Resume Optimization</li>
@@ -70,63 +57,36 @@ Python • FastAPI • Whisper • OpenAI • Ollama
 <li>Skill Extraction</li>
 <li>AI Feedback</li>
 </ul>
-
-<b>Tech:</b>
-
-Python • Streamlit • Gemini • NLP
+<b>Tech:</b> Python • Streamlit • Gemini • NLP
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
 
 <h3>📑 OCR AI Toolkit</h3>
-
 <ul>
-
 <li>OCR Pipeline</li>
-
 <li>PDF Analysis</li>
-
 <li>RAG Chatbot</li>
-
 <li>Semantic Search</li>
-
 </ul>
-
-<b>Tech:</b>
-
-Tesseract • ChromaDB • Python
+<b>Tech:</b> Tesseract • ChromaDB • Python
 
 </td>
-
 <td width="50%">
 
 <h3>🤖 AI Podcast Generator</h3>
-
 <ul>
-
 <li>Local LLM</li>
-
 <li>Audio Generation</li>
-
 <li>Automation</li>
-
 <li>Voice Synthesis</li>
-
 </ul>
-
-<b>Tech:</b>
-
-Python • Ollama • Kokoro • TTS
+<b>Tech:</b> Python • Ollama • Kokoro • TTS
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -134,83 +94,28 @@ Python • Ollama • Kokoro • TTS
 <h2>🛠 Tech Stack</h2>
 
 <h3>Languages</h3>
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+<img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <h3>Backend</h3>
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
-<img src="https://skillicons.dev/icons?i=flask" />
-
-<img src="https://skillicons.dev/icons?i=django" />
-
-<img src="https://skillicons.dev/icons?i=sqlite" />
-
+<img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=flask" /> <img src="https://skillicons.dev/icons?i=django" /> <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
 <h3>AI / Machine Learning</h3>
-
 <p>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Whisper-4285F4?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"> <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"> <img src="https://img.shields.io/badge/Whisper-4285F4?style=for-the-badge"> <img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge">
 </p>
 
 <h3>Database</h3>
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Qdrant-E10098?style=for-the-badge">
-
+<img src="https://skillicons.dev/icons?i=postgres" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" /> <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge"> <img src="https://img.shields.io/badge/Qdrant-E10098?style=for-the-badge">
 </p>
 
 <h3>DevOps & Tools</h3>
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=linux" /> <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
@@ -218,41 +123,19 @@ Python • Ollama • Kokoro • TTS
 <h2>📫 Connect With Me</h2>
 
 <p align="center">
-
-<a href="mailto:shadabkhanbenki@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" height="55">
-
-</a>
-
+<a href="mailto:shadabkhanbenki@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"></a>
 &nbsp;&nbsp;
-
-<a href="https://github.com/Bshadabkhan">
-
-<img src="https://skillicons.dev/icons?i=github" height="55">
-
-</a>
-
+<a href="https://github.com/Bshadabkhan"><img src="https://skillicons.dev/icons?i=github" height="55"></a>
 &nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/shadab-khan-b-41b6a8270">
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="55">
-
-</a>
-
+<a href="https://www.linkedin.com/in/shadab-khan-b-41b6a8270"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
 </p>
 
 ---
 
 <h2 align="center">
-
 ⭐ Thanks for visiting my profile ⭐
-
 </h2>
 
 <p align="center">
-
 <i>"Code. Learn. Build. Improve. Repeat."</i>
-
 </p>
