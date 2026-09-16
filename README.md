@@ -127,7 +127,7 @@ Building scalable AI applications using Python, FastAPI, LLMs, RAG, and Automati
 &nbsp;&nbsp;
 <a href="https://github.com/Bshadabkhan"><img src="https://skillicons.dev/icons?i=github" height="55"></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shadab-khan-b-41b6a8270"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
+<a href="https://www.linkedin.com/in/shadab-khan-ai/"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
 </p>
 
 ---
