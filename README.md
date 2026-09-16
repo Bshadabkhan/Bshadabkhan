@@ -27,103 +27,11 @@ Building scalable AI applications using Python, FastAPI, LLMs, RAG, and Automati
 
 <li>⚡ Experienced in Python, FastAPI, Streamlit, REST APIs, LLM Integration and Backend Development.</li>
 
-<li>📚 Currently learning:
-<ul>
-<li>Advanced System Design</li>
-<li>Kubernetes</li>
-<li>Distributed AI Systems</li>
-<li>Multi-Agent AI</li>
-<li>Cloud Deployment</li>
-</ul>
-</li>
+<li>📚 Currently deepening my skills in Advanced System Design, Kubernetes, Distributed AI Systems, Multi-Agent AI, and Cloud Deployment.</li>
 
 <li>🎯 Goal: Become a Senior AI Software Engineer.</li>
 
 </ul>
-
----
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>Languages</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
-
-<h3>Backend</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
-<img src="https://skillicons.dev/icons?i=flask" />
-
-<img src="https://skillicons.dev/icons?i=django" />
-
-<img src="https://skillicons.dev/icons?i=sqlite" />
-
-</p>
-
-<h3>AI / Machine Learning</h3>
-
-<p>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Whisper-4285F4?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge">
-
-</p>
-
-<h3>Database</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Qdrant-E10098?style=for-the-badge">
-
-</p>
-
-<h3>DevOps & Tools</h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
 
 ---
 
@@ -223,113 +131,87 @@ Python • Ollama • Kokoro • TTS
 
 ---
 
-<h2>📈 GitHub Analytics</h2>
+<h2>🛠 Tech Stack</h2>
 
-<p align="center">
+<h3>Languages</h3>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bshadabkhan&show_icons=true&theme=tokyonight"/>
+<p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bshadabkhan&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://skillicons.dev/icons?i=js" />
+
+<img src="https://skillicons.dev/icons?i=html" />
+
+<img src="https://skillicons.dev/icons?i=css" />
+
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 </p>
 
-<p align="center">
+<h3>Backend</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bshadabkhan&theme=tokyonight"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi" />
+
+<img src="https://skillicons.dev/icons?i=flask" />
+
+<img src="https://skillicons.dev/icons?i=django" />
+
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
 </p>
 
----
+<h3>AI / Machine Learning</h3>
 
-<h2>📚 Current Learning Roadmap</h2>
+<p>
 
-<table>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 
-<tr>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge">
 
-<th>Completed ✅</th>
+<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge">
 
-<th>Learning 🚀</th>
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge">
 
-<th>Next 🎯</th>
+<img src="https://img.shields.io/badge/Whisper-4285F4?style=for-the-badge">
 
-</tr>
+<img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge">
 
-<tr>
+</p>
 
-<td>
+<h3>Database</h3>
 
-Python
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=postgres" />
 
-FastAPI
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<br>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
-REST APIs
+<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge">
 
-<br>
+<img src="https://img.shields.io/badge/Qdrant-E10098?style=for-the-badge">
 
-LLMs
+</p>
 
-<br>
+<h3>DevOps & Tools</h3>
 
-RAG
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=docker" />
 
-Automation
+<img src="https://skillicons.dev/icons?i=git" />
 
-</td>
+<img src="https://skillicons.dev/icons?i=github" />
 
-<td>
+<img src="https://skillicons.dev/icons?i=linux" />
 
-Advanced DSA
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-<br>
-
-System Design
-
-<br>
-
-Docker
-
-<br>
-
-PostgreSQL
-
-<br>
-
-Redis
-
-</td>
-
-<td>
-
-Kubernetes
-
-<br>
-
-Cloud
-
-<br>
-
-Distributed Systems
-
-<br>
-
-AI Agents
-
-<br>
-
-MCP
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
